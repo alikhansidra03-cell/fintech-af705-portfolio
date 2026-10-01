@@ -1,0 +1,19 @@
+company_name,description,fintech_category,source
+Stripe,Online payment processing and merchant checkout infrastructure for internet businesses.,Payments & Digital Wallets,Kaggle
+Chime,App-only neobank offering fee-free checking and savings accounts in the US.,Digital Banking & Neobanks,Kaggle
+Affirm,Point-of-sale installment lending and buy-now-pay-later checkout financing.,Lending Tech & BNPL,Kaggle
+Betterment,Automated robo-advisor providing algorithm-driven investment portfolio management.,WealthTech & Robo-Advisory,Kaggle
+Lemonade,AI-powered renters and home insurance with instant claims processing.,InsurTech,Kaggle
+Coinbase,"Cryptocurrency exchange and digital wallet for buying, selling and storing crypto assets.",Payments & Digital Wallets,Kaggle
+ComplyAdvantage,AML screening and transaction-monitoring compliance software for financial institutions.,RegTech,Kaggle
+Wise,Cross-border money transfer and multi-currency digital wallet for individuals and businesses.,Payments & Digital Wallets,Kaggle
+Revolut,"Digital banking app offering multi-currency accounts, cards and budgeting tools.",Digital Banking & Neobanks,Kaggle
+Klarna,Buy-now-pay-later checkout financing and installment payment plans for online shoppers.,Lending Tech & BNPL,Kaggle
+Wealthfront,Automated investment management and robo-advisory financial planning platform.,WealthTech & Robo-Advisory,Kaggle
+Root Insurance,Usage-based car insurance priced using telematics and driving-behaviour data.,InsurTech,Kaggle
+Circle,Issuer of the USDC stablecoin and blockchain-based payment infrastructure.,Blockchain & Crypto,Kaggle
+Trulioo,Global identity verification and KYC/AML compliance platform for onboarding.,RegTech,Kaggle
+PayPal,Online and mobile digital wallet for consumer and merchant payments worldwide.,Payments & Digital Wallets,Kaggle
+NayaPay,"App-first digital wallet in Pakistan for payments, bill pay and remittances.",Payments & Digital Wallets,Pakistan (manual)
+SadaPay,Digital wallet in Pakistan offering instant payment cards and NADRA-linked KYC verification.,Payments & Digital Wallets,Pakistan (manual)
+JazzCash,Mobile-network-led digital wallet and mobile banking app operated by Jazz telecom in Pakistan.,Payments & Digital Wallets,Pakistan (manual)
