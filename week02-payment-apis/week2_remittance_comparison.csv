@@ -1,0 +1,5 @@
+channel,flat_fee_usd,fx_markup_pct,effective_rate_pkr,amount_received_pkr,total_cost_pkr,total_cost_pct
+RAAST-Linked Wallet,1.0,0.3,276.0,137726.13,691.26,0.5
+Digital Remittance App,3.5,0.5,275.45,136761.22,1656.16,1.2
+Money Transfer Operator (MTO),8.0,2.0,271.3,133478.66,4938.73,3.57
+Traditional Bank Wire,25.0,3.0,268.53,127551.62,10865.76,7.85
